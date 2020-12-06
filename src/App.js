@@ -14,77 +14,77 @@ class App extends Component{
       guitars:[
         {
           name:'Stratocaster',
-          image:'/guitar/strat.jpg',
+          image:'guitar/strat.jpg',
           id:'1'
         },
         {
           name:'Superstrat',
-          image:'/guitar/superstrat.jpg',
+          image:'guitar/superstrat.jpg',
           id:'2'
         },
         {
           name:'Telecaster',
-          image:'/guitar/telecaster.jpg',
+          image:'guitar/telecaster.jpg',
           id:'3'
         },
         {
           name:'LesPaul',
-          image:'/guitar/lespaul.jpg',
+          image:'guitar/lespaul.jpg',
           id:'4'
         },
         {
           name:'SG',
-          image:'/guitar/sg.jpg',
+          image:'guitar/sg.jpg',
           id:'5'
         },  
         {
           name:'Flying V',
-          image:'/guitar/v.jpg',
+          image:'guitar/v.jpg',
           id:'6'
         },
         {
           name:'Semi-Hollow',
-          image:'/guitar/semihollow.jpg',
+          image:'guitar/semihollow.jpg',
           id:'7'
         },
         {
           name:'Hollow',
-          image:'/guitar/hollow.jpg',
+          image:'guitar/hollow.jpg',
           id:'8'
         },
         {
           name:'Acoustic',
-          image:'/guitar/acoustic.jpg',
+          image:'guitar/acoustic.jpg',
           id:'9'
         },
         {
           name:'Semi Acoustic',
-          image:'/guitar/semiacoustic.jpg',
+          image:'guitar/semiacoustic.jpg',
           id:'10'
         },
         {
           name:'Clasical',
-          image:'/guitar/classical.jpg',
+          image:'guitar/classical.jpg',
           id:'11'
         },
         {
           name:'12strings',
-          image:'/guitar/12string.jpg',
+          image:'guitar/12string.jpg',
           id:'12'
         },
         {
           name:'Steel ',
-          image:'/guitar/steel.jpg',
+          image:'guitar/steel.jpg',
           id:'13'
         },
         {
           name:'Archtop ',
-          image:'/guitar/archtop.jpg',
+          image:'guitar/archtop.jpg',
           id:'14'
         },
         {
           name:'Resonator ',
-          image:'/guitar/resonator.jpg',
+          image:'guitar/resonator.jpg',
           id:'15'
         },
       ],
