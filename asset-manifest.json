@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FReact/static/css/main.4ae14280.chunk.css",
+    "main.js": "/FReact/static/js/main.e3da829f.chunk.js",
+    "main.js.map": "/FReact/static/js/main.e3da829f.chunk.js.map",
+    "runtime-main.js": "/FReact/static/js/runtime-main.1d9b038b.js",
+    "runtime-main.js.map": "/FReact/static/js/runtime-main.1d9b038b.js.map",
+    "static/js/2.f47e387c.chunk.js": "/FReact/static/js/2.f47e387c.chunk.js",
+    "static/js/2.f47e387c.chunk.js.map": "/FReact/static/js/2.f47e387c.chunk.js.map",
+    "static/js/3.ab2b258f.chunk.js": "/FReact/static/js/3.ab2b258f.chunk.js",
+    "static/js/3.ab2b258f.chunk.js.map": "/FReact/static/js/3.ab2b258f.chunk.js.map",
+    "index.html": "/FReact/index.html",
+    "static/css/main.4ae14280.chunk.css.map": "/FReact/static/css/main.4ae14280.chunk.css.map",
+    "static/js/2.f47e387c.chunk.js.LICENSE.txt": "/FReact/static/js/2.f47e387c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d9b038b.js",
+    "static/js/2.f47e387c.chunk.js",
+    "static/css/main.4ae14280.chunk.css",
+    "static/js/main.e3da829f.chunk.js"
+  ]
+}
